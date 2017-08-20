@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sparktec</string>
+    <string name="title_activity_main_employee">MainEmployeeActivity</string>
+    <string name="user_image">User Image</string>
+    <string name="report_your_attendance">report your attendance</string>
+    <string name="welcome_user">welcome user!</string>
+    <string name="action_settings">Action Setting</string>
+</resources>
